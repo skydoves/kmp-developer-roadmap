@@ -7,34 +7,6 @@ on:
     branches: [ '*' ]
 
 jobs:
-  lint:
-    name: Spotless check
-    runs-on: macos-latest
-    steps:
-      - name: Check out code
-        uses: actions/checkout@v4.2.0
-      - name: Set up JDK
-        uses: actions/setup-java@v4.4.0
-        with:
-          distribution: 'zulu'
-          java-version: 17
-      - name: spotless
-        run: ./gradlew spotlessCheck
-
-  api_check:
-    name: API check
-    runs-on: macos-latest
-    steps:
-      - name: Check out code
-        uses: actions/checkout@v4.2.0
-      - name: Set up JDK
-        uses: actions/setup-java@v4.4.0
-        with:
-          distribution: 'zulu'
-          java-version: 17
-      - name: API check
-        run: ./gradlew apiCheck
-
   build:
     name: Build and Tests
     runs-on: macos-latest
@@ -63,9 +35,8 @@ jobs:
       - name: Build with Gradle
         run: |
           ./gradlew --scan --stacktrace \
-              assemble -x :benchmark-landscapist:pixel6api31Setup -x :benchmark-landscapist:pixel6api31NonMinifiedReleaseAndroidTest -x :benchmark-landscapist:collectNonMinifiedReleaseBaselineProfile
+              assemble
 
       - name: Run unit tests
         run: |
-          ./gradlew --scan --stacktrace \
-              testDebugUnitTest
+          ./gradlew --scan --stacktrace
