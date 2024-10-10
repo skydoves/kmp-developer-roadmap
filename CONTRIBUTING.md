@@ -1,4 +1,4 @@
-# Contributing to Android Developer Roadmap 2022
+# Contributing to Kotlin Multiplatform Developer Roadmap
 
 ## How to contribute
 
@@ -13,12 +13,12 @@ This project is built with [Figma](https://www.figma.com/) which is one of the m
 Firstly, clone this repository on your desktop using the below command.
 
 ```groovy
-git clone https://github.com/skydoves/android-developer-roadmap
+git clone https://github.com/skydoves/kmp-developer-roadmap
 ```
 
 ### Import the roadmap project
 
-Next, import the roadmap project **Android Developer Roadmap 2022.fig** on your Figma like the below:
+Next, import the roadmap project **Kotlin Multiplatform Developer Roadmap.fig** on your Figma like the below:
 
 ![Figma1](/images/Figma1.png)
 
@@ -32,8 +32,8 @@ After importing the file, you can edit the element by double-clicking each node.
 
 After editing the roadmap, you should export two files:
 
-- The **.fig** project file with the path **/figma/Android Developer Roadmap 2022.fig**.
-- The **.png** file with the path **/images/android_developer_roadmap.png**.
+- The **.fig** project file with the path **/figma/Kotlin Multiplatform Developer Roadmap.fig**.
+- The **.png** file with the path **/images/light.png**.
 
 Firstly, you can export the **.fig** project file on your **Figma > Menu -> File -> Save local copy...** like the below:
 
