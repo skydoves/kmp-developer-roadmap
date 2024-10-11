@@ -54,7 +54,7 @@ Android 관련 지식을 더 알아보려면 Android 개발에 필요한 필수 
 
 ## 🕊️ Dove Letter
 
-Kotlin과 Android에 대해 더 많은 학습을 원하신다면 [Dove Letter](https://github.com/doveletter/dove-letter)를 살펴보시길 바랍니다. Dove Letter는 안드로이드 및 Kotlin과 관련하여 학습, 토론, 및 지식을 공유할 수 있는 데일리 뉴스레터 형태의 유료 구독형 저장소입니다. 자세한 내용은 [도브 레터: 안드로이드와 코틀린 학습하기](https://velog.io/@skydoves/doveletter) 포스트를 참고하세요.
+Kotlin과 Android에 대해 더 많은 학습을 원하신다면 [Dove Letter](https://github.com/doveletter/)를 살펴보시길 바랍니다. Dove Letter는 안드로이드 및 Kotlin과 관련하여 학습, 토론, 및 지식을 공유할 수 있는 데일리 뉴스레터 형태의 유료 구독형 저장소입니다. 자세한 내용은 [도브 레터: 안드로이드와 코틀린 학습하기](https://velog.io/@skydoves/doveletter) 포스트를 참고하세요.
 
 ## 🤝 Contribution
 
