@@ -33,8 +33,6 @@ If you're looking to build your first Android and iOS application using Kotlin M
 
 - [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/)
 
-If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/kmp-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
-
 ## 💡 The Android Developer Roadmap
 
 For more Android-specific knowledge, be sure to check out the [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap), which outlines essential topics, skills, and resources for Android development.
