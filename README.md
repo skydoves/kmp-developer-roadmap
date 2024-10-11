@@ -55,6 +55,14 @@ In this multipart series, you'll learn all about the Android development ecosyst
 
 If you're interested in building a robust chat, video or audio calls, or livestreaming feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the __[Stream Chat for Android](https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=KMPDeveloperRoadmap&utm_term=DevRelOss)__ and __[Stream Video SDK for Compose](https://getstream.io/video/sdk/android/tutorial/video-calling?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=KMPDeveloperRoadmap&utm_term=DevRelOss)__.
 
+<a href="https://github.com/doveletter">
+<img src="https://github.com/user-attachments/assets/b1c938ec-1bfa-4e01-9c81-bcd67f926f63" width="13%" align="right"/>
+</a>
+
+## 🕊️ Dove Letter
+
+If you're eager to dive deeper into Kotlin and Android, explore [Dove Letter](https://github.com/doveletter), a private subscription repository where you can learn, discuss, and share knowledge. To get more details about this unique opportunity, check out the [Learn Kotlin and Android With Dove Letter](https://medium.com/@skydoves/learn-kotlin-and-android-with-dove-letter-26265da11903) article.
+
 ## 🤝 Contribution
 
 This project doesn't cover everything, so if something is missing or should be fixed, anyone can contribute to this project by following the [CONTRIBUTING](CONTRIBUTING.md) guides.
