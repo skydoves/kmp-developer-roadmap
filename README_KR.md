@@ -32,6 +32,30 @@ Kotlin Multiplatform 및 Compose Multiplatform을 사용하여 첫 Android 및 i
 
 - [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/)
 
+## 💡 The Android Developer Roadmap
+
+Android 관련 지식을 더 알아보려면 Android 개발에 필요한 필수 주제, 기술, 리소스를 간략히 설명하는 [Android 개발자 로드맵](https://github.com/skydoves/android-developer-roadmap)을 확인하세요.
+
+안드로이드 개발자 로드맵은 최신 안드로이드 생태계를 종합적으로 이해할 수 있도록 디자인되었으며, 제안된 학습 경로를 따라 개념을 파악하는 데 도움이 됩니다.<br>
+
+로드맵과 관련된 포스트는 총 5부로 구성되어 있으며, 안드로이드 개발자 로드맵에 따라 안드로이드 개발 생태계에 대한 내용을 학습하실 수 있습니다. 또한 안드로이드 커뮤니티에 대한 전체적인 시각과 개발자로서 어떻게 발전할 수 있는지 살펴볼 수 있습니다.
+
+- **[The Android Platform: The 2022 Android Developer Roadmap – Part 1](https://getstream.io/blog/android-developer-roadmap/)**
+- **[App Components: The Android Developer Roadmap – Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)**
+- **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3/)**
+- **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4/)**
+- **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5/)**
+
+추가적인 포스트는 **[Stream Blog](https://getstream.io/blog/topic/engineering/android/)** 에 지속적으로 업로드될 예정입니다. 또한, 다음 포스트에 대한 알림을 위해 이 리파지토리의 __[작성자](https://github.com/skydoves)__ 를 팔로우 하실 수도 있습니다.
+
+<a href="https://github.com/doveletter">
+<img src="https://github.com/user-attachments/assets/b1c938ec-1bfa-4e01-9c81-bcd67f926f63" width="13%" align="right"/>
+</a>
+
+## 🕊️ Dove Letter
+
+Kotlin과 Android에 대해 더 많은 학습을 원하신다면 [Dove Letter](https://github.com/doveletter/dove-letter)를 살펴보시길 바랍니다. Dove Letter는 안드로이드 및 Kotlin과 관련하여 학습, 토론, 및 지식을 공유할 수 있는 데일리 뉴스레터 형태의 유료 구독형 저장소입니다. 자세한 내용은 [도브 레터: 안드로이드와 코틀린 학습하기](https://velog.io/@skydoves/doveletter) 포스트를 참고하세요.
+
 ## 🤝 Contribution
 
 로드맵은 KMP 개발에 관한 모든 내용을 다루지 않기 때문에, 누락된 내용이 있거나 수정이 필요한 경우 누구나 [CONTRIBUTING](CONTRIBUTING.md) 가이드에 따라 프로젝트에 기여하실 수 있습니다.
