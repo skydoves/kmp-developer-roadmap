@@ -32,11 +32,27 @@ jobs:
       - name: Make Gradle executable
         run: chmod +x ./gradlew
 
-      - name: Build with Gradle
-        run: |
-          ./gradlew --scan --stacktrace \
-              assemble
+  Android:
+    runs-on: ubuntu-latest
 
-      - name: Run unit tests
-        run: |
-          ./gradlew --scan --stacktrace
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Job set up
+        uses: ./.github/actions/job-set-up
+
+      - run: ./gradlew :androidApp:assemble
+
+  iOS:
+    runs-on: macos-12
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Job set up
+        uses: ./.github/actions/job-set-up
+
+      - name: iOS set up
+        uses: ./.github/actions/ios-set-up
+
+      - run: xcodebuild build -workspace iosApp/iosApp.xcworkspace -configuration Debug -scheme iosApp -sdk iphoneos -destination name='iPhone 14' -verbose
