@@ -35,10 +35,6 @@ If you're looking to build your first Android and iOS application using Kotlin M
 
 If you'd like to get notified as we release future posts, join the **[watchers](https://github.com/skydoves/kmp-developer-roadmap/watchers)** on GitHub or follow **[Stream](https://twitter.com/getstream_io)** on Twitter. You can also follow the __[author](https://github.com/skydoves)__ of this repository on GitHub.
 
-<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=KMPDeveloperRoadmap&utm_term=DevRelOss">
-<img src="https://github.com/user-attachments/assets/de6e042b-df34-4c61-9696-c51293ca983f" align="right" width="12%"/>
-</a>
-
 ## 💡 The Android Developer Roadmap
 
 For more Android-specific knowledge, be sure to check out the [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap), which outlines essential topics, skills, and resources for Android development.
@@ -52,6 +48,10 @@ In this multipart series, you'll learn all about the Android development ecosyst
 - **[App Navigation and Jetpack: The Android Developer Roadmap – Part 3](https://getstream.io/blog/android-developer-roadmap-part-3?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
 - **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
+
+<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=KMPDeveloperRoadmap&utm_term=DevRelOss">
+<img src="https://github.com/user-attachments/assets/de6e042b-df34-4c61-9696-c51293ca983f" align="right" width="12%"/>
+</a>
 
 ## ⛴ Stream
 
