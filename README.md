@@ -29,9 +29,10 @@ Each node represents key aspects of Kotlin Multiplatform, including platform con
 
 The Kotlin Multiplatform Developer Roadmap aims to provide a comprehensive understanding of the current KMP ecosystem, offering suggested learning paths to help you grasp essential concepts along the way. It covers key topics and technologies, guiding you through different stages of learning. <br>
 
-If you're looking to build your first Android and iOS application using Kotlin Multiplatform and Compose Multiplatform, check out the article below for step-by-step instructions.
+![4](https://github.com/user-attachments/assets/de94eca0-3672-4b45-92bc-9117d797fded)
 
-- [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/)
+- [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://getstream.io/blog/kotlin-multiplatform-roadmap/): You can explore the Kotlin Multiplatform (KMP) ecosystem using the Kotlin Multiplatform Developer Roadmap as your guide. The roadmap is designed to offer a comprehensive overview of the current KMP ecosystem, which provides suggested learning paths to help you better understand the various concepts involved in KMP development.
+- [Build Your First Android and iOS Mobile App With Kotlin Multiplatform](https://getstream.io/blog/build-app-kotlin-multiplatform/): If you're looking to build your first Android and iOS application using Kotlin Multiplatform and Compose Multiplatform, check out the article below for step-by-step instructions.
 
 ## 💡 The Android Developer Roadmap
 
