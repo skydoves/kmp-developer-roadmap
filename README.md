@@ -48,13 +48,13 @@ In this multipart series, you'll learn all about the Android development ecosyst
 - **[Design Patterns and Architecture: The Android Developer Roadmap – Part 4](https://getstream.io/blog/design-patterns-and-architecture-the-android-developer-roadmap-part-4?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
 - **[Jetpack Compose: The Android Developer Roadmap – Part 5](https://getstream.io/blog/android-developer-roadmap-part-5?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_Dec2024_AndroidDeveloperRoadmap&utm_term=DevRelOss)**
 
-<a href="https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=KMPDeveloperRoadmap&utm_term=DevRelOss">
-<img src="https://github.com/user-attachments/assets/de6e042b-df34-4c61-9696-c51293ca983f" align="right" width="12%"/>
+<a href="https://www.android.skydoves.me/">
+<img src="https://github.com/user-attachments/assets/e014ce01-3461-40af-bb2a-eb44f3f55f36" width="13%" align="right"/>
 </a>
 
-## ⛴ Stream
+## 📘 Manifest Android Interview
 
-If you're interested in building a robust chat, video or audio calls, or livestreaming feature, which is an easy-to-use, open-sourced, Kotlin-first, actively maintained, check out the __[Stream Chat for Android](https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=KMPDeveloperRoadmap&utm_term=DevRelOss)__ and __[Stream Video SDK for Compose](https://getstream.io/video/sdk/android/tutorial/video-calling?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=KMPDeveloperRoadmap&utm_term=DevRelOss)__.
+[Manifest Android Interview](https://www.android.skydoves.me/) is a comprehensive guide designed to enhance your Android development expertise through 108 interview questions with detailed answers, 162 additional practical questions, and 50+ "Pro Tips for Mastery" sections. The interview questions primarily focus on Android development—including the Framework, UI, Jetpack Libraries, and Business Logic—as well as Jetpack Compose, covering Fundamentals, Runtime, and UI.
 
 <a href="https://github.com/doveletter">
 <img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
